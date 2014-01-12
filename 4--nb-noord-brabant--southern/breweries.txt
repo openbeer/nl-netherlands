@@ -1,0 +1,57 @@
+###########################################################
+# Breweries in Noord Brabant (NB)  - Southern Netherlands
+
+
+[budels]
+  Budels|Budelse Brouwerij, 1870
+  // Budel
+  www.budels.nl
+  nl.wikipedia: Budelse_Brouwerij
+
+[dedriehorne]
+  De 3 Horne|Brouwerij De 3 Horne, 1990
+  // Kaatsheuvel
+  www.de3horne.nl
+  nl.wikipedia: Brouwerij_De_3_Horne
+  600 hl
+
+
+[bavaria]
+  Bavaria|Bavaria Brouwerij, 1680   # voor 1680
+  // Lieshout
+  www.bavaria.nl
+  nl.wikipedia: Bavaria_Brouwerij
+
+
+[dommelsch]
+  Dommelsch|Dommelsche Bierbrouwerij, 1744
+  // Dommelen
+  www.dommelsch.nl
+  nl.wikipedia: Dommelsche_Bierbrouwerij
+  abinbev
+
+
+[dekoningshoeven]
+  De Koningshoeven|Bierbrouwerij De Koningshoeven
+  www.latrappe.nl
+  nl.wikipedia: La_Trappe_(bier)
+  trappisten
+
+
+[oijen]
+  Oijen|Speciaalbierbrouwerij Oijen
+  // Oijen (Oss)
+  www.speciaalbierbrouwerij.nl
+  nl.wikipedia: Speciaalbierbrouwerij_Oijen
+
+[deroos]
+  De Roos|Museumbrouwerij De Roos
+  www.museumbrouwerij.nl
+  nl.wikipedia: Museumbrouwerij_De_Roos
+
+
+
+####
+# More
+
+## Heineken Nederland

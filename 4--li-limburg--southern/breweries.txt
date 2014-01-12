@@ -1,0 +1,39 @@
+########################################################
+# Breweries in Limburg (LI) - Southern Netherlands
+
+
+[alfa]
+  Alfa|Alfa Brouwerij, 1870
+  // Thull (Schinnen)
+  www.alfabier.nl
+  wikipedia: Alfa_Brewery
+  nl.wikipedia: Alfa_Brouwerij
+  120_000 hl   # 12_000_000 l
+
+
+[brand]
+  Brand|Brand Bierbrouwerij, 1340 (1871)
+  // Wijlre
+  www.brand.nl
+  nl.wikipedia: Brand_Bierbrouwerij
+  heineken
+
+
+[stchristoffel]
+  Brouwerij Sint Christoffel
+
+[defontein]
+  Brouwerij De Fontein
+
+[gulpener]
+· Gulpener Bierbrouwerij
+
+[hertogjan]
+  Hertog Jan Brouwerij
+
+[lindeboom]
+  Bierbrouwerij Lindeboom
+
+[mongozo]
+  Mongozo
+

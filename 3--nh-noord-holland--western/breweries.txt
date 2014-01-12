@@ -1,0 +1,87 @@
+##########################################################
+# Breweries in Noord Holland (NH) - Western Netherlands
+
+
+_______________________
+- Amsterdam
+
+[dezevendeugden]
+  De 7 Deugden|Brouwerij De 7 Deugden, 2010
+  // Amsterdam
+  www.de7deugden.nl
+  nl.wikipedia: Brouwerij_De_7_Deugden
+
+
+_______________________
+- Others
+
+
+[breugems]
+  Breugems|Breugems Brouwerij, 2007
+  // Zaandam
+  nl.wikipedia: Breugems_Brouwerij
+
+[deboei]
+  De Boei|Bierbrouwerij De Boei
+  nl.wikipedia: Bierbrouwerij_De_Boei
+
+[breugems]
+  Breugems|Breugems Brouwerij
+
+[dampegheest]
+  Dampegheest|Brouwerij Dampegheest
+
+[egmond]
+  Egmond|Brouwerij Egmond
+
+[florindia]
+  Florindia|Brouwerij Florindia
+
+[gooische]
+  Gooische Bierbrouwerij
+
+[heyloo]
+  Heyloo|Brouwerij Heyloo
+
+[tij]
+  't IJ|Brouwerij 't IJ
+
+[jopen]
+  Jopen
+
+[deprael]
+  Brouwerij De Prael
+
+
+[snab]
+  SNAB
+
+[texelse]
+  Texelse Bierbrouwerij
+
+
+
+#########################
+# more breweries to add
+
+## De Bekeerde Zuster
+
+## Brouwerij Kinhem
+
+## Brouwerij De Lepelaer
+
+## De Naeckte Brouwers
+
+## Huisbrouwerij De Natte Cel
+
+## Bierbrouwerij De Schans
+
+## De Snaterende Arend
+
+## Bierbrouwerij Vijfhuizen
+
+## Bierbrouwerij 't Vølen
+
+## Wispe
+
+## Brouwerij Zeeburg

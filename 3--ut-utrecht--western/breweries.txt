@@ -1,0 +1,37 @@
+####################################################
+# Breweries in Utrecht (UT) - Western Netherlands
+
+______________________________
+-  Utrecht
+
+[deleckere]
+  De Leckere|Brouwerij De Leckere, 1997
+  // Utrecht
+  www.deleckere.nl
+  nl.wikipedia: Brouwerij_De_Leckere
+
+
+
+___________________________________
+- Others
+
+[deeem]
+  De Eem|Bierbrouwerij De Eem
+  // Amersfoort
+
+
+
+[maximus]
+  Maximus|Brouwerij Maximus, 2011
+  // Leidsche Rijn
+  www.brouwerijmaximus.nl
+  nl.wikipedia: Brouwerij_Maximus
+
+
+[duitslauret]
+  Duits & Lauret|Speciaalbierbrouwerij Duits & Lauret, 2009
+  // Vleuten
+  www.duitslauret.com
+  nl.wikipedia: Speciaalbierbrouwerij_Duits_&_Lauret
+
+

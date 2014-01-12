@@ -14,3 +14,11 @@ Lonley Planet Netherlands
 - Central Netherlands
 - Maastricht & Southeastern Netherlands
 
+
+
+## Quick Notes
+
+### Wikipedia (nl)
+
+- [Lijst_van_Nederlandse_brouwerijen](http://nl.wikipedia.org/wiki/Lijst_van_Nederlandse_brouwerijen)
+
