@@ -1,17 +1,17 @@
 
 breweries:
-- 1--dr-drenthe--northern/breweries
-- 1--fr-fryslan--northern/breweries
-- 1--gr-groningen--northern/breweries
-- 2--fl-flevoland--eastern/breweries
-- 2--ge-gelderland--eastern/breweries
-- 2--ov-overijssel--eastern/breweries
-- 3--nh-noord-holland--western/breweries
-- 3--ut-utrecht--western/breweries
-- 3--ze-zeeland--western/breweries
-- 3--zh-zuid-holland--western/breweries
-- 4--li-limburg--southern/breweries
-- 4--nb-noord-brabant--southern/breweries
+- nl-netherlands!/1--dr-drenthe--northern/breweries
+- nl-netherlands!/1--fr-fryslan--northern/breweries
+- nl-netherlands!/1--gr-groningen--northern/breweries
+- nl-netherlands!/2--fl-flevoland--eastern/breweries
+- nl-netherlands!/2--ge-gelderland--eastern/breweries
+- nl-netherlands!/2--ov-overijssel--eastern/breweries
+- nl-netherlands!/3--nh-noord-holland--western/breweries
+- nl-netherlands!/3--ut-utrecht--western/breweries
+- nl-netherlands!/3--ze-zeeland--western/breweries
+- nl-netherlands!/3--zh-zuid-holland--western/breweries
+- nl-netherlands!/4--li-limburg--southern/breweries
+- nl-netherlands!/4--nb-noord-brabant--southern/breweries
 
 beers:
-- 3--nh-noord-holland--western/beers
+- nl-netherlands!/3--nh-noord-holland--western/beers
