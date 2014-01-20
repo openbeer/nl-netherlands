@@ -1,5 +1,5 @@
 ########################################################
-# Breweries in Limburg (LI) - Southern Netherlands
+# Breweries in Limburg (li) / Southern Netherlands
 
 
 [alfa]

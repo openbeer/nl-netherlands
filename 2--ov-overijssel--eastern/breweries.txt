@@ -1,5 +1,5 @@
 #######################################################
-# Breweries in Overijssel (OV) - Eastern Netherlands
+# Breweries in Overijssel (ov) / Eastern Netherlands
 
 
 [berghoeve]

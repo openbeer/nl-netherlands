@@ -1,5 +1,5 @@
 ##########################################################
-# Breweries in Noord Holland (NH) - Western Netherlands
+# Breweries in Noord Holland (nh) / Western Netherlands
 
 
 _______________________

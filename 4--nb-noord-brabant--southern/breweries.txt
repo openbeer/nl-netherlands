@@ -1,5 +1,5 @@
 ###########################################################
-# Breweries in Noord Brabant (NB)  - Southern Netherlands
+# Breweries in Noord Brabant (nb) / Southern Netherlands
 
 
 [budels]

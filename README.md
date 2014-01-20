@@ -1,6 +1,11 @@
-# Beers n Breweries in the Netherlands (nl)
+# Beers, Breweries n Brewpubs in the Netherlands (nl)
 
-Free open public domain beer n brewery data for the Netherlands / Europe
+Free open public domain beer, brewery, brewpub data for the Netherlands / Europe.
+Example:
+
+~~~
+
+~~~
 
 
 ## Questions? Comments?
